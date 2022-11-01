@@ -1,0 +1,63 @@
+.title {
+	font-size: 7.5em;
+	font-family: sans-serif;
+	margin-top: 10px;
+}
+body {
+	background-color: antiquewhite;
+}
+.text {
+	font-size: 2em;
+	color: orangered;
+	font-family: monospace;
+}
+.highlight {
+	color: darkred;
+	margin-left: 0.5em;
+	margin-right: 0.5em;
+}
+.header {
+	font-size: 3em;
+	font-family: sans-serif;
+	margin-top: 10px;
+	color: royalblue;
+}
+.align {
+	display: flex;
+	align-items: flex-start;
+	padding: 0px;
+}
+#linkalign {
+	display: grid;
+	border-color: black;
+	border-style: solid;
+	margin: 10px;
+	padding: 10px;
+}
+.minimise {
+	margin-right: 0px;
+	margin-left: 0px;
+}
+.footer {
+	text-align: center;
+	background-color: royalblue;
+	padding: 10px;
+	color: orangered;
+	font-size: 1.2em;
+}
+a:link {
+	color: red;
+	text-decoration: none;
+}
+a:visited {
+	color: red;
+	text-decoration: none;
+}
+a:hover {
+	color: red;
+	text-decoration: none;
+}
+a:active {
+	color: red;
+	text-decoration: none;
+}

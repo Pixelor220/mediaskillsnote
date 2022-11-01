@@ -1,0 +1,1 @@
+document.write('All Rights Reserved. Do not copy code, images, or any original content from this page. <a href="info.html">INFO</a> <br> ©Eddie Lim');
